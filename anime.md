@@ -88,4 +88,5 @@
 |Tsukimichi Moonlit Fantasy|1|12|4||
 |The Great Jahy Will not be Defeated|1|20|3.5|Funny and Relaxing|
 |Tokyo Revengers|1|24|4.5||
+|Aggretsuko|4|10|4||
 ||||||
