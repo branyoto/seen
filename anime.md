@@ -90,4 +90,4 @@
 |Tokyo Revengers|1|24|4.5||
 |Aggretsuko|4|10|4||
 |Overlord|3|13|4.5||
-||||||
+|Himouto Umaru-chan|1|12|4.5||
