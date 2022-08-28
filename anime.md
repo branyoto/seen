@@ -91,3 +91,4 @@
 |Aggretsuko|4|10|4||
 |Overlord|3|13|4.5||
 |Himouto Umaru-chan|1|12|4.5||
+|The strongest Sage with the weakest crest|1|12|4||
