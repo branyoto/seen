@@ -1,4 +1,4 @@
-| title | last season seen | last episode seen | note (/5) | side note |
+| Title | Season | Episode | Note (/5) | Side note |
 |-------|------------------|-------------------|-------------|-----------|
 |Kaguya-sama: Love is War|3|13|5|Very fun but a little borring| 
 |Spy x Family|1|12|5|Really good plot and very funny| 
@@ -92,3 +92,10 @@
 |Overlord|3|13|4.5||
 |Himouto Umaru-chan|1|12|4.5||
 |The strongest Sage with the weakest crest|1|12|4||
+|Highschool of the dead|1|5|1.5||
+|Sankarea|1|12|5||
+|Boku wa tomodachi ga sukunai|2|12|3||
+|Highschool Dxd|Born|12?|2||
+|Kiss x Sis|2|12|3||
+|To love ru|darkness?|12|2.5||
+||||||
