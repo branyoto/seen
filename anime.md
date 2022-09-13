@@ -86,20 +86,20 @@
 |Fairy Ranmaru|1|12|0.5|Not for me|
 |Platinum End|1|13|2||
 |Tsukimichi Moonlit Fantasy|1|12|4||
-|The Great Jahy Will not be Defeated|1|20|3.5|Funny and Relaxing|
+|The Great Jahy Will not be Defeated|1|20|3|Funny and Relaxing|
 |Tokyo Revengers|1|24|4.5||
 |Aggretsuko|4|10|4||
 |Overlord|3|13|4.5||
 |Himouto Umaru-chan|1|12|4.5||
 |The strongest Sage with the weakest crest|1|12|4||
-|Highschool of the dead|1|5|1.5||
+|Highschool of the dead|1|5|0.5||
 |Sankarea|1|12|5||
-|Boku wa tomodachi ga sukunai|2|12|3||
-|Highschool Dxd|Born|12?|2||
-|Kiss x Sis|2|12|3||
-|To love ru|darkness?|12|2.5||
-|How not to summon a demon lord|2|10|2||
-|Akashic Records of Bastard Magic Instructor|1|12|||
+|Boku wa tomodachi ga sukunai|2|12|2||
+|Highschool Dxd|Born|12?|1.5||
+|Kiss x Sis|2|12|2||
+|To love ru|darkness?|12|2||
+|How not to summon a demon lord|2|10|3||
+|Akashic Records of Bastard Magic Instructor|1|12|4||
 ||||||
-||||||4
+||||||
 ||||||
