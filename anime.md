@@ -98,4 +98,5 @@
 |Highschool Dxd|Born|12?|2||
 |Kiss x Sis|2|12|3||
 |To love ru|darkness?|12|2.5||
+|How not to summon a demon lord|2|10|2||
 ||||||
