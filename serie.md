@@ -1,4 +1,5 @@
 |Title|Season|Episode|
+|---|---|---|
 |Mentalist|||
 |Brooklyn 99|||
 |Swat|||
