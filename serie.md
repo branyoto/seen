@@ -19,7 +19,7 @@
 |Luke Cage|||
 |Iron fist|||
 |GoT|||
-|Rick & Morty|5|10|
+|Rick & Morty|6|2|
 |Super Store|||
 |Big bang theory|||
 |Umbrella Academy|||
