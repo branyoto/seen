@@ -99,4 +99,7 @@
 |Kiss x Sis|2|12|3||
 |To love ru|darkness?|12|2.5||
 |How not to summon a demon lord|2|10|2||
+|Akashic Records of Bastard Magic Instructor|1|12|||
+||||||
+||||||4
 ||||||
