@@ -100,6 +100,6 @@
 |To love ru|darkness?|12|2||
 |How not to summon a demon lord|2|10|3||
 |Akashic Records of Bastard Magic Instructor|1|12|4||
-||||||
-||||||
+|Danmachi|2|5|4.5||
+|Isekai Ojisan|1|7|3.5||
 ||||||
