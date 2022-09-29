@@ -104,6 +104,10 @@
 |Isekai Ojisan|1|7|3.5||
 |Denpa Onna to Seishun Otoko|1|13|4.5||
 |Didn't I say to make my abilities average in the next life|1|12|3.5||
+|Made in Abyss|1|13|4||
+||||||
+||||||
+||||||
 ||||||
 ||||||
 ||||||
