@@ -36,7 +36,7 @@
 |Ultramarine Magmell|1|13|3.5||
 |SAO|1|25|2||
 |One piece|?|?|3||
-|The daily life of the Immortal king|1|15|5||
+|The daily life of the Immortal king|2|12|5||
 |Angel Beats|1|14|2.5||
 |Skyhigh Survival|1|12|4.5||
 |Devilman Crybaby|1|10|0|Just bad|
