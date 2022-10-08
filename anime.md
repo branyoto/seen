@@ -126,8 +126,8 @@
 |Shijou Saikyou no Deshi Kenichi|1|50|4.5||
 |Noragami|2|13|4||
 |Rail Wars!|1|12|3||
-||||||
-||||||
+|Soul Eater|1|51|3|Bad ending|
+|Strike the Blood|2|32|4||
 ||||||
 ||||||
 ||||||
