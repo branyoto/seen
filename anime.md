@@ -109,8 +109,21 @@
 |Akane iro ni somaru saka|1|13|?|Don't remember it|
 |Akikan|1|12|3||
 |Angel of death|1|12|5||
-||||||
-||||||
+|Assassin's Pride|1|12|3.5||
+|Lotte no Omocha!|1|12|3||
+|Beelzebub|1|12|4.5||
+|Ben-To|1|12|4||
+|Black rock shooter|1|5|??||
+|C³|1||??||
+|Chuunibyou Demo Koi Ga Shitai|2|12|4||
+|Darker than Black|2|12|4.5||
+|Darling in the Franxx|1|24|3||
+|Dororo|1|24|4||
+|Go toubun no hanayome|2|12|3.5||
+|Gosick|1|24|4||
+|The granblue fantasy|2|13|2||
+|Keijo!!!!!!!!|1|12|2||
+|Shijou Saikyou no Deshi Kenichi|1|50|4.5||
 ||||||
 ||||||
 ||||||
