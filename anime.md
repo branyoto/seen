@@ -108,7 +108,7 @@
 |Lastman|1|26|0||
 |Akane iro ni somaru saka|1|13|?|Don't remember it|
 |Akikan|1|12|3||
-||||||
+|Angel of death|1|12|5||
 ||||||
 ||||||
 ||||||
