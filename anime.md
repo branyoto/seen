@@ -124,6 +124,11 @@
 |The granblue fantasy|2|13|2||
 |Keijo!!!!!!!!|1|12|2||
 |Shijou Saikyou no Deshi Kenichi|1|50|4.5||
+|Noragami|2|13|4||
+|Rail Wars!|1|12|3||
+||||||
+||||||
+||||||
 ||||||
 ||||||
 ||||||
